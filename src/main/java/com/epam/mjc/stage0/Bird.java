@@ -1,6 +1,6 @@
 package com.epam.mjc.stage0;
 
-public class Bird {
+public class Bird extends Animal{
   public Bird(){
     super("Blue", 2, false);
   }
